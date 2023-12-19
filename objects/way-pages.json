@@ -11,7 +11,7 @@
         "wayType": 1,
         "appName": "test",
         "appId": 1,
-        "name": "真是路线",
+        "name": "真是路线1",
         "id": 10,
         "introduction": "dsd",
         "status": 1
@@ -24,7 +24,7 @@
         "wayType": 1,
         "appName": "test",
         "appId": 1,
-        "name": "测试审核拦截器1",
+        "name": "测试审核拦截1",
         "id": 9,
         "introduction": "是是是",
         "status": 1
