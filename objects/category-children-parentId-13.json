@@ -1,1 +1,19 @@
-this is an awesome file I created
+{
+  "code": 200,
+  "message": "成功",
+  "data": [
+    {
+      "id": 62,
+      "createdBy": "f8ec0268646c411985cfff5443569c31",
+      "createdTime": "2023-11-28 21:36:58",
+      "updatedBy": "f8ec0268646c411985cfff5443569c31",
+      "updatedTime": "2023-11-28 21:38:27",
+      "appId": 1,
+      "type": "BOOK",
+      "status": "PASSED",
+      "name": "测试父类同app同类型需审核",
+      "code": "大多数",
+      "parentId": 13
+    }
+  ]
+}
