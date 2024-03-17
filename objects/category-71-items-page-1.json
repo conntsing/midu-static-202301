@@ -1,1 +1,0 @@
-{"code":200,"message":"成功","data":{"records":[{"itemId":26,"itemName":"楚辞","itemType":"BOOK","categoryId":71,"itemStatus":"PASSED","linkAuthors":[{"authorName":"屈原","authorId":22,"bookId":26}]}],"total":1,"size":10,"current":1,"orders":[],"optimizeCountSql":true,"searchCount":true,"maxLimit":null,"countId":null,"pages":1}}
