@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "code": "Midu-Book-Xiyouji",
+    "appName": "弥笃艺志",
+    "tagIds": [
+      15
+    ],
+    "language": "中文",
+    "type": "epub",
+    "tagNames": "四大名著",
+    "cover": "",
+    "categoryNames": "集",
+    "copyrightType": 2,
+    "score": null,
+    "path": "/books/2024/MARCH/10/22/17/chapter-0.js",
+    "categoryIds": [
+      75
+    ],
+    "contentSource": 2,
+    "readNum": null,
+    "appId": 30,
+    "authorNames": "吴承恩",
+    "name": "西游记",
+    "publisher": "",
+    "id": 22,
+    "introduction": "《西游记》是中国古代第一部浪漫主义章回体长篇神魔小说，达到了古代长篇浪漫主义小说的巅峰，与《三国演义》《水浒传》《红楼梦》并称为中国古典四大名著。主要讲述了孙悟空出世，跟随菩提祖师学艺及大闹天宫后，遇见了唐僧、猪八戒、沙僧和白龙马，西行取经，一路上历经艰险，降妖除魔，经历了九九八十一难，终于到达西天见到如来佛祖，最终五圣成真的故事。该小说以“玄奘取经”这一历史事件为蓝本，经作者的艺术加工，深刻地描绘出明代百姓的社会生活状况。",
+    "authorIds": [
+      18
+    ],
+    "status": 4
+  }
+}
