@@ -1,0 +1,1 @@
+{"code":200,"message":"成功","data":{"records":[{"itemId":88,"itemName":"易传","itemType":"BOOK","categoryId":74,"itemStatus":"PASSED","linkAuthors":[{"authorName":"孔丘","authorId":23,"bookId":88}]}],"total":31,"size":10,"current":4,"orders":[],"optimizeCountSql":true,"searchCount":true,"maxLimit":null,"countId":null,"pages":4}}
