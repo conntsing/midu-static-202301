@@ -1,1 +1,0 @@
-{"code":200,"message":"成功","data":{"records":[{"itemId":35,"itemName":"宋词三百首","itemType":"BOOK","categoryId":69,"itemStatus":"PASSED","linkAuthors":[{"authorName":"朱孝臧","authorId":26,"bookId":35}]}],"total":1,"size":10,"current":1,"orders":[],"optimizeCountSql":true,"searchCount":true,"maxLimit":null,"countId":null,"pages":1}}
